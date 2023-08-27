@@ -1,0 +1,6 @@
+artifacts_root: "artifacts"
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_data_url: "https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/main/data.csv"
+  local_data_file: "data.csv"
