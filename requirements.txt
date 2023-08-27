@@ -1,0 +1,4 @@
+pandas == 2.0.3
+xgboost == 1.7.6
+polars == 0.18.15
+rich == 13.5.2
